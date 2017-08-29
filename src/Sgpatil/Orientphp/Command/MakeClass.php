@@ -8,7 +8,8 @@ use Sgpatil\Orientphp\Command,
 /**
  * Create a node
  */
-class CreateClass extends Command
+// TODO: this whole class seems unused?
+class MakeClass extends Command // Classed used to be called CreateClass
 {
 	protected $node = null;
 
